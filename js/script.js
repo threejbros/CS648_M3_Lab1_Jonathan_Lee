@@ -278,7 +278,7 @@ function init() {
         "SALLY"
     ];
 
-    var showEmployee = function(employeeArr) {
+    var showEmployee = function (employeeArr) {
         var output = "";
         employeeArr.forEach(function (employee) {
             output += employee + "\n";
